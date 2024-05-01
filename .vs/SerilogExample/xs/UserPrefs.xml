@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{E8912AB1-8CD7-4851-BDBB-D71EE71A2B4D}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="SerilogExample/Services/DummyService.cs">
+    <Files>
+      <File FileName="SerilogExample/Program.cs" Line="49" Column="25" />
+      <File FileName="SerilogExample/appsettings.json" Line="8" Column="52" />
+      <File FileName="SerilogExample/Services/IDummyService.cs" Line="4" Column="18" />
+      <File FileName="SerilogExample/Services/DummyService.cs" Line="7" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SerilogExample" expanded="True">
+            <Node name="SerilogExample" expanded="True">
+              <Node name="Services" expanded="True">
+                <Node name="DummyService.cs" selected="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SerilogExample PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
